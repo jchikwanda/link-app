@@ -12,7 +12,7 @@ Link App is a mobile application built using Expo that allows users to preview l
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/link-app.git`
+1. Clone the repository: `git clone https://github.com/jchikwanda/link-app.git`
 2. Change into the project directory: `cd link-app`
 3. Install dependencies: `npm install`
 
